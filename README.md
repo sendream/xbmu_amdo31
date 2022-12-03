@@ -11,7 +11,7 @@ XBMU-AMDO31 version: 1.0.0 (12/03/2022)
 ## Leaderboard
 
 | **Contributor**| **Toolkit**       | **Train Recipe**     | **Features**     | **Modeling unit** | **Inference**     |**Dev/Test WER**    |
-|:---------------|:------------------|:------------------|:------------------|:------------------|:------------------:|
+|:---------------|:------------------|:------------------|:------------------|:------------------|:------------------|:------------------:|
 ||||| 
 | <em>Baseline</em>    | [Kaldi](https://github.com/kaldi-asr/kaldi) | NNET3 | Fbank | Syllables| <u>model</u> <u>example</u> | 17.71 / 15.29 |
 | <em>Baseline</em>    | [Espnet](https://github.com/espnet/espnet) | [Conformer/Transformer-AED] | Fbank | Syllables | <u>model</u> <u>example</u> | 14.80 / 13.80 |
