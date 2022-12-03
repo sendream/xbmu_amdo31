@@ -10,7 +10,7 @@ XBMU-AMDO31 version: 1.0.0 (12/03/2022)
 
 ## Leaderboard
 
-| **Contributor**| **Toolkit**       | **Train Recipe**     | **Train Data** | **Inference**     |**Dev/Test WER**    |
+| **Contributor**| **Toolkit**       | **Train Recipe**     | **Modeling unit** | **Inference**     |**Dev/Test WER**    |
 |:---------------|:------------------|:------------------|:------------------|:------------------|:------------------:|
 ||||| 
 | <em>Baseline</em>    | [Kaldi](https://github.com/kaldi-asr/kaldi) | NNET3 | Syllables| <u>model</u> <u>example</u> | 17.71 / 15.29 |
